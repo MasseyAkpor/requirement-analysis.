@@ -1,0 +1,9 @@
+## Requirement Gathering involves collecting raw requirements from stakeholders through interviews, surveys, workshops, observation, and document analysis. This step ensures that the development team captures all possible needs of the users and business.
+
+## Requirement Elicitation goes a step further by refining and clarifying gathered requirements. It helps uncover hidden or conflicting needs using techniques such as brainstorming, focus groups, and prototyping, ensuring nothing critical is overlooked.
+
+## Requirement Documentation records the requirements in a structured and understandable format for both technical and non-technical audiences. This can be done using Software Requirement Specification (SRS) documents, user stories, or use cases, ensuring that all requirements are traceable.
+
+## Requirement Analysis and Modeling examines the documented requirements for feasibility, clarity, and priority. This activity involves prioritizing requirements, conducting feasibility studies, and modeling the system using diagrams like Data Flow Diagrams (DFDs) or Entity-Relationship (ER) diagrams to provide a clear visualization of the system.
+
+## Requirement Validation ensures that the final set of requirements is correct, complete, and agreed upon by stakeholders. It includes stakeholder reviews, defining acceptance criteria, and creating a traceability matrix to guarantee that all requirements will be implemented and tested during the development process.
