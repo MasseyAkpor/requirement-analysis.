@@ -1,0 +1,103 @@
+## 📖 Requirement Analysis
+
+### 🔹 What is Requirement Analysis?
+
+Requirement Analysis is a **critical phase** in the **Software Development Lifecycle (SDLC)** where the needs and expectations of stakeholders are gathered, studied, and defined in detail. The primary goal is to ensure that both the development team and stakeholders have a **shared understanding** of what the software system should do and how it should perform.
+
+This stage acts as the **foundation** for the entire development process, as the quality and accuracy of requirements directly impact the design, development, testing, and overall success of the project.
+
+---
+
+### 🔹 Importance of Requirement Analysis in SDLC
+
+1. **Clarity and Understanding**
+
+   * Helps in eliminating ambiguity and misunderstandings by clearly documenting stakeholder expectations.
+   * Ensures all team members are aligned on what needs to be built.
+
+2. **Scope Definition**
+
+   * Defines the **boundaries** of the project (what is included and excluded).
+   * Prevents **scope creep**—uncontrolled changes or continuous growth in project requirements.
+
+3. **Foundation for Design & Development**
+
+   * Provides a clear reference for architects and developers to design the system correctly.
+   * Reduces the risk of rework by ensuring the right system is built from the start.
+
+4. **Accurate Cost & Time Estimation**
+
+   * With well-defined requirements, project managers can make realistic estimates of cost, resources, and timelines.
+   * Reduces surprises during later stages of development.
+
+5. **Quality Assurance**
+
+   * Forms the basis for test planning and validation.
+   * Ensures the final product meets user needs and delivers value.
+
+6. **Customer Satisfaction**
+
+   * By involving stakeholders early and validating requirements, the delivered system is more likely to meet user expectations.
+
+---
+
+### 🔹 Key Activities in Requirement Analysis
+
+1. **Requirement Gathering 🗂️**
+   Collecting requirements using techniques such as:
+
+   * Interviews with stakeholders
+   * Surveys and questionnaires
+   * Workshops and focus groups
+   * Observation of end-users
+   * Document analysis of existing systems
+
+2. **Requirement Elicitation ✍️**
+   Refining raw requirements through:
+
+   * Brainstorming sessions
+   * Prototyping to visualize solutions
+   * Use of focus groups for detailed inputs
+
+3. **Requirement Documentation 📚**
+
+   * Writing **Requirement Specification Documents** (functional & non-functional requirements)
+   * Creating **User Stories** and **Use Cases** to describe system behavior from a user’s perspective
+
+4. **Requirement Analysis & Modeling 📊**
+
+   * Prioritizing requirements (critical vs. optional)
+   * Performing feasibility studies (technical, financial, time)
+   * Building models such as **data flow diagrams (DFDs)**, **ER diagrams**, and **use case diagrams**
+
+5. **Requirement Validation ✅**
+
+   * Reviewing requirements with stakeholders for accuracy and completeness
+   * Defining **acceptance criteria** for each requirement
+   * Creating **traceability matrices** to ensure all requirements are implemented and tested
+
+---
+
+### 🔹 Functional vs Non-functional Requirements
+
+* **Functional Requirements (What the system should do)**
+  Examples: user authentication, property search, booking system, user registration.
+
+* **Non-functional Requirements (How the system should perform)**
+  Examples: performance (fast response time), security (data encryption), scalability, usability, and reliability.
+
+---
+
+### 🔹 Why Requirement Analysis is Crucial
+
+Without proper requirement analysis:
+
+* The system may fail to meet user expectations.
+* Projects risk going over budget and missing deadlines.
+* Developers may build features that are not needed, while missing critical ones.
+
+With proper requirement analysis:
+
+* The project has a **clear roadmap**,
+* Resources are used efficiently,
+* And the final system is **reliable, user-friendly, and value-driven**.
