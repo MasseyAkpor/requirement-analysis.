@@ -1,0 +1,15 @@
+Functional and Non-Functional Requirements for a Booking Management System
+
+## Functional Requirements:
+The functional requirements define the essential services that the booking management system must provide to its users. For instance, one key requirement is hotel management services, where hotel administrators can add, update, or remove property listings. This ensures that any changes, such as new rooms added after renovations, are reflected in real-time. Another major functional need is property search and booking, allowing users to search accommodations based on filters such as location, availability, and price. This provides users with a smooth experience when choosing where to stay. Additionally, the booking view service enables customers to check their reservation details, view booking history, and even make cancellations or modifications if necessary. Together, these functions represent the “what” of the system—the practical tools that make the application valuable to both travelers and property managers.
+
+## Non-Functional Requirements:
+While the functional features ensure usability, the non-functional requirements guarantee that the system performs reliably under real-world conditions. A critical requirement is low latency, which ensures that users experience quick responses when searching and booking hotels. Another equally important requirement is consistency, so that room availability is always accurate and double-booking scenarios are avoided. Furthermore, the system must support scalability and concurrency, meaning it should be capable of handling thousands of users booking simultaneously, especially during peak travel seasons. This can be achieved by implementing modern architectural strategies such as microservices, distributed databases, and load balancing. These non-functional aspects focus on the “how” of the system, ensuring not just functionality, but also performance, reliability, and user satisfaction.
+
+## Conclusion:
+In essence, functional requirements provide the fundamental services such as managing listings, searching for properties, and handling bookings, while non-functional requirements ensure that these services are delivered efficiently, consistently, and at scale. Both perspectives complement each other; without functional requirements, the system would not meet user needs, and without non-functional requirements, the system would fail to deliver those services effectively. For a booking management system to succeed, it must strike a balance between the “what” and the “how.”
+
+| Requirement Type   | Definition                    | Examples for Booking Management Project                           |
+| ------------------ | ----------------------------- | ----------------------------------------------------------------- |
+| **Functional**     | What the system must do       | Hotel management, property search/booking, booking history        |
+| **Non-Functional** | How the system should perform | Low latency, consistency, high concurrency, scalable architecture |
