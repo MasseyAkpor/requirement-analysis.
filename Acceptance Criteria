@@ -1,0 +1,29 @@
+## Importance of Acceptance Criteria in Requirement Analysis
+
+Acceptance Criteria are predefined conditions that a software product must meet in order to be accepted by the stakeholders, clients, or end-users. They serve as a bridge between requirements and implementation, ensuring that everyone has a shared understanding of when a feature is considered “done.”
+
+* Clarity of Expectations: They provide developers with a clear definition of what is expected, minimizing miscommunication.
+
+* Scope Control: Help avoid scope creep by defining exactly what should and should not be included in a feature.
+
+* Quality Assurance: Offer a measurable way to verify and test whether the system meets functional and non-functional requirements.
+
+* User Satisfaction: Ensure that the delivered feature aligns with user needs and business objectives.
+
+* Testing Foundation: Form the basis for writing test cases and scenarios during the QA process
+
+## Example: Acceptance Criteria for Checkout Feature (Booking Management System)
+
+Feature: Checkout Process for Hotel Booking
+
+* The system must allow a logged-in user to proceed to checkout after selecting a booking.
+
+* The user must be able to review booking details (hotel name, room type, check-in/check-out dates, price).
+
+* The system must provide at least one valid payment option (e.g., credit card, PayPal).
+
+* The payment must be processed securely, and sensitive data (e.g., card info) should be encrypted.
+
+* The user should receive a confirmation message and booking reference number upon successful payment.
+
+* If payment fails, the system must display an error message and allow the user to retry or choose another payment method.
